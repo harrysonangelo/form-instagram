@@ -1,0 +1,13 @@
+img {
+    width: 20%;
+    margin: auto;
+    display: block;
+  }
+p{
+    margin-left: auto;
+    margin-right: auto;
+    width: 7em
+}
+form{
+    margin: 0 auto
+}
